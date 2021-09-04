@@ -1,0 +1,75 @@
+.navbar{
+    align-content: center;
+    color: crimson;
+    font-size: 25px;
+    background:rgb(50, 112, 141);
+    border: solid; color: ghostwhite;
+    border-radius: 10%;
+
+}
+
+.h1{
+    color: indigo;
+    text-align: center;
+}
+
+.ol{
+    text-shadow: 5px;
+    justify-items: center;
+}
+.inline-div {
+    display:inline-block;
+    border: rgb(241, 23, 23);
+}
+.inline-txtarea {
+    resize: none;
+    border : 2px solid red;
+    height:150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.click button{
+    font-size: 15px;
+    color: darkmagenta;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.footer{
+margin-top: 50px;
+font-size: 18px;
+border-style: dotted; color: green; 20px;
+padding: 25px;
+
+}
+
+.h2 {
+    border-style: groove;10px;
+}
+
+    
+
+
+                
+
+              
+
+                  /* .nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+                  
+                  .nav-link{ margin-right: 1em !important;}
+                  
+                  .nav-link:hover{ background: #f4f4f4; color: #f97300; }
+                  
+                  .navbar-collapse{ justify-content: right;}
+                  
+                  .navbar-toggler{  background:#fff !important;} */
+
+                  /* .overlay{
+                    position: absolute;
+                    min-height: 15%;
+                    min-width: 100%;
+                    left: 0;
+                    top: 0;
+                    background: rgba(244, 244, 244, 0.79);
+                   } 
